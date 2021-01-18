@@ -1,0 +1,34 @@
+{
+    "todos":[
+        {
+            "title": "Tarea 1",
+            "responsable": "Antonio",
+            "descripcion": "Esta es la tarea 1",
+            "priority": "low"
+        },        
+        {
+            "title": "Tarea 2",
+            "responsable": "Fernando",
+            "descripcion": "Esta es la tarea 2",
+            "priority": "medium"
+        },
+        {
+            "title": "Tarea 3",
+            "responsable": "Carlos",
+            "descripcion": "Esta es la tarea 3",
+            "priority": "high"
+        },
+        {
+            "title": "Tarea 4",
+            "responsable": "Ivan",
+            "descripcion": "Esta es la tarea 4",
+            "priority": "high"
+        },
+        {
+            "title": "Tarea 5",
+            "responsable": "Camilo",
+            "descripcion": "Esta es la tarea 5",
+            "priority": "low"
+        }
+    ]
+}
